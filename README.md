@@ -1,6 +1,4 @@
 # EXP : 3a - CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
-## NAME : S MOHAMED AHSAN
-## REG NO: 212223240089
 ## AIM :
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
